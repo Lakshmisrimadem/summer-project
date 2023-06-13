@@ -1,5 +1,6 @@
 <html>
-<body background color:"mediumseagreen;">
+<body>
 <h1>my new project</h1>
+<h1 style="background-color:Mediumseagreen;">Mediumseagreen</h1>
 </body>
 </html>
